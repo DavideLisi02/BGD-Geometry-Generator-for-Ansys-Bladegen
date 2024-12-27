@@ -25,7 +25,7 @@ The `generator.py` script is the core component of the BGD Geometry Generator. I
     - **Description**: A method of the `StateFileModifier` class that creates a modified geometry file based on the provided geometry settings and saves it to the specified destination path.
 
 ## Author
-Davide
+Davide Lisi
 
 ## Contact
 For any questions or further information, please contact Davide at davide.lisi@epfl.ch.
